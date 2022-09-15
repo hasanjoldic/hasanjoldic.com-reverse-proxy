@@ -7,7 +7,7 @@ notes.hasanjoldic.com = 3020
 
 money.hasanjoldic.com = 3030
 
-images.hasanjoldic.com = 3030
+images.hasanjoldic.com = 3040
 
 
 javnikonkursi.hasanjoldic.com = 4000
