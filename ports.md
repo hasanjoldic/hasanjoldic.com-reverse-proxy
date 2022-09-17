@@ -9,5 +9,6 @@ money.hasanjoldic.com = 3030
 
 images.hasanjoldic.com = 3040
 
+auth.hasanjoldic.com = 3050
 
 javnikonkursi.hasanjoldic.com = 4000
