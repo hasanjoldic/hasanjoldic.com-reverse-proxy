@@ -11,4 +11,6 @@ images.hasanjoldic.com = 3040
 
 auth.hasanjoldic.com = 3050
 
+javnikonkursi.hasanjoldic.com = 3060
+
 javnikonkursi.hasanjoldic.com = 4000
